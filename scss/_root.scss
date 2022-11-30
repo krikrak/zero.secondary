@@ -1,0 +1,30 @@
+:root {
+  // --aligncenter: 80vw;
+  // --aligncenter-max: 1080px;
+  // --alignwide: 80vw;
+  // --alignwide-max: 80vw;
+  // --alignfull: 100%;
+  // --alignfull-max: 100vw;
+
+  --font-family: "IBM Plex Mono", "system-ui", sans-serif;
+
+  --color-lightest: var(--wp--preset--color--link);
+  --color-darkest: var(--wp--preset--color--back);
+
+  --opacity-1: 0.9;
+  --opacity-2: 0.9;
+  --opacity-3: 0.4;
+
+  --stroke: 1px;
+
+  --row-gap: 5vmax;
+  --column-gap: 5vmin;
+
+  --fancybox-bg: hsla(0deg, 0%, 0%, 1);
+  --carousel-button-width: 48px;
+  --carousel-button-height: 48px;
+  --carousel-button-svg-width: 27px;
+  --carousel-button-svg-height: 27px;
+  --fancybox-content-bg: transparent;
+  --fancybox-accent-color: white;
+}
